@@ -27,17 +27,25 @@ html{
 
 .container{
     width:960px;
-    margin:auto;
     position:relative;
+}
+
+.space{
+    width:4%;
+    height:10px;
+    display: inline-block;
 }
 
 #logo{
     font-family: 'Merriweather Sans', sans-serif;
     color: #A01A00;
-    font-size: 103px;
+    font-size: 90px;
     top: 50px;
-    left: 0px;
+    left: 40px;
     position: absolute;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 0px;
 }
 
 #social {
@@ -48,6 +56,24 @@ html{
     margin: auto;
 }
 
+#tumblr{
+    background-image:url(http://i.imgur.com/cQke59p.png);
+    width:;
+    height:;
+    display:inline-block;
+}
+
+#tumblr:hover{
+    background-image:url(http://i.imgur.com/cQke59p.png);
+}
+
+
 img{
-    width:18% !important
+    width:13% !important
+}
+
+@media (max-width: 800px) {
+    img{
+        width:9% !important
+    }
 }
