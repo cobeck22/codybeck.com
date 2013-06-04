@@ -1,43 +1,54 @@
-html 
-{
-	background: url(http://i.imgur.com/3wgsph2.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
+
+a {
+text-decoration: none;
+}
+
+body{
+    margin:0;
+}
+
+html{
+    background: url(http://i.imgur.com/Du80tmR.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.width90pct{
+    width:90%;
+    position: absolute;
+    top: 260px;
+    left: 65px;
+}
+
+.width45pct{
+    width:45%;
+}
+
+.container{
+    width:960px;
+    margin:auto;
+    position:relative;
+}
+
+#logo{
+    font-family: 'Shadows Into Light Two', cursive;
+    color: #A01A00;
+    font-size: 103px;
+    top: 50px;
+    left: 0px;
+    position: absolute;
 }
 
 #social {
-position: relative;
-left: -310px;
-top: 260px;
-width: 500px;
-margin: auto; 	
+    position: relative;
+    left: -310px;
+    top: 260px;
+    width: 500px;
+    margin: auto;
 }
 
-#Tumblr {
-max-width:87px;
-max-height:87px;
+img{
+    width:18% !important
 }
-
-#Instagram {
-max-width:90px;
-max-height:90px;
-}
-
-#Twitter {
-max-width:105px;
-max-height:105px;
-}
-
-#Enstitute {
-max-width:90px;
-max-height:90px;
-}
-
-#Linkedin {
-max-width:90px;
-max-height:90px;
-}
-
-
