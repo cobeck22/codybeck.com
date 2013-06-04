@@ -1,0 +1,43 @@
+html 
+{
+	background: url(http://i.imgur.com/3wgsph2.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#social {
+position: relative;
+left: -310px;
+top: 260px;
+width: 500px;
+margin: auto; 	
+}
+
+#Tumblr {
+max-width:87px;
+max-height:87px;
+}
+
+#Instagram {
+max-width:90px;
+max-height:90px;
+}
+
+#Twitter {
+max-width:105px;
+max-height:105px;
+}
+
+#Enstitute {
+max-width:90px;
+max-height:90px;
+}
+
+#Linkedin {
+max-width:90px;
+max-height:90px;
+}
+
+
