@@ -56,14 +56,14 @@ html{
     margin: auto;
 }
 
-#tumblr{
-    background-image:url(http://i.imgur.com/cQke59p.png);
+#medium{
+    background-image:url(http://i.imgur.com/PhZpzio.png);
     background-size:100%;
     display:inline-block;
 }
 
-#tumblr:hover{
-    background-image:url(http://i.imgur.com/dmDHoF0.png);
+#medium:hover{
+    background-image:url(http://i.imgur.com/AHrupOr.png);
 }    
 
 #instagram{
