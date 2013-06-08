@@ -134,7 +134,7 @@ html{
 }
 
 #codystext{
-    position: relative;
+    position: absolute;
     top: 400px;
     left: 50px;
     }
