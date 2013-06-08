@@ -133,8 +133,8 @@ html{
     }
 }
 
-    #codystext {
-    position: absolute;
+#codystext{
+    position: relative;
     top: 400px;
     left: 50px;
     }
