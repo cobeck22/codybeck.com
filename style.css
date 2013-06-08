@@ -118,11 +118,6 @@ html{
         height:35px;
     }
     
-    #codystext{
-    position: absolute;
-    top: 400px;
-    left: 50px;
-}
 }
 
 @media (max-width: 745px) {
@@ -137,3 +132,9 @@ html{
         display:none !important;
     }
 }
+
+    #codystext{
+    position: absolute;
+    top: 400px;
+    left: 50px;
+    }
