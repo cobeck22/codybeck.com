@@ -7,7 +7,7 @@ body{
 }
 
 html{
-    background: url(http://i.imgur.com/vBHbRwq.png) no-repeat center center fixed;
+    background: url(http://i.imgur.com/vBHbRwq.png) no-repeat right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
