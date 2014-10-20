@@ -37,7 +37,7 @@ html{
 }
 
 #logo{
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     color: #A01A00;
     font-size: 90px;
     top: 50px;
@@ -135,7 +135,7 @@ html{
 
 #codystext{
     position: absolute;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     color: #A01A00;
     top: 450px;
